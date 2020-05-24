@@ -1,0 +1,64 @@
+{
+  "//1": "DİSCORD BOT ALT YAPI ZEZE ` Zeze ✶#0018",
+  "//2": "DİSCORD BOT ALT YAPI ZEZE ` Zeze ✶#0018",
+  "//3": "DİSCORD BOT ALT YAPI ZEZE ` Zeze ✶#0018",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "DİSCORD BOT ALT YAPI ZEZE ` Zeze ✶#0018",
+  "main": "zeze.js",
+  "scripts": {
+    "start": "node zeze.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "enmap": "^5.2.0",
+    "express": "^4.16.4",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "figlet": "^1.2.4",
+    "fs": "^0.0.2",
+    "g-image-search": "^1.0.2",
+    "gifencoder": "^2.0.1",
+    "google": "^2.1.0",
+    "jimp": "^0.8.4",
+    "js-base64": "^2.5.1",
+    "kratos": "^2.3.3",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.2.2",
+    "node-opus": "^0.3.2",
+    "path": "^0.12.7",
+    "quick-db": "^1.0.5",
+    "quick.db": "^7.1.1",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0",
+    "server.js": "^1.0.0",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "sqlite": "^3.0.3",
+    "superagent": "^5.1.0",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^1.0.0",
+    "event.js": "^0.1.0",
+    "db": "^2.0.0",
+    "fetch": "^1.1.0",
+    "parse-ms": "^2.0.0",
+    "ms": "^2.1.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
