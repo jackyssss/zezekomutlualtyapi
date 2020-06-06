@@ -10,11 +10,10 @@ exports.conf = {
   aliases: [], //Komutun farklı kullanımları ÖR: !ping, !p
   permLevel: 0 //kimlerin kullanabileceğini  (bot.js dosyasında perm leveller yazıyor)
 };
-//By Mustafa Eren#6972
 
 exports.help = {
   name: "", //Komutun adı (Komutu girerken lazım olucak)
   description: "", //Komutun Açıklaması
   usage: "" //komutun kullanım şekli; ÖR: !ban @Kullanıcı
 };
-///BU AŞAMADA SİZİ ALAKADAR ETMİYOR BURASI
+///PERM LEVEL KISMIAYARLAMASIDIR DEVAMI MAİNDE BİLGİNİZ OLSUN
